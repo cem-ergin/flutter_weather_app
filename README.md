@@ -26,3 +26,6 @@ Tools • Dart 3.2.3 • DevTools 2.28.4
 
 <video src="https://github.com/cem-ergin/flutter_weather_app/assets/30066961/b42c8a95-9579-4626-bbe0-417efe373f04" />
 
+## Deployed url
+
+https://neon-dusk-966625.netlify.app/
