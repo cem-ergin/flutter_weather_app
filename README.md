@@ -14,9 +14,13 @@ A technical challenge weather application
 
 ## Versions
 Flutter 3.16.5 • channel stable • https://github.com/flutter/flutter.git
+
 Framework • revision 78666c8dc5 (7 weeks ago) • 2023-12-19 16:14:14 -0800
+
 Engine • revision 3f3e560236
+
 Tools • Dart 3.2.3 • DevTools 2.28.4
+
 
 ## Highlight
 
