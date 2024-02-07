@@ -12,7 +12,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Daily Weather'),
+        title: Text(
+          'Daily Weather',
+          style: Theme.of(context).textTheme.titleMedium,
+        ),
         centerTitle: false,
       ),
       drawer: const Drawer(
